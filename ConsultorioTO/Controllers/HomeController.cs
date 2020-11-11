@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ConsultorioTO.Models;
+using ConsultorioTO.Models.ViewModels;
 
 namespace ConsultorioTO.Controllers
 {

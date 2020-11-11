@@ -11,7 +11,6 @@ C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\Cons
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.csprojAssemblyReference.cache
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.AssemblyInfoInputs.cache
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.AssemblyInfo.cs
-C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.csproj.CoreCompileInputs.cache
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.RazorAssemblyInfo.cache
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.RazorAssemblyInfo.cs
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.TagHelpers.input.cache
@@ -34,3 +33,4 @@ C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\Cons
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.pdb
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.genruntimeconfig.cache
 C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.csproj.CopyComplete
+C:\Users\Familia Rosa\Documents\Projetos\Projeto Consultório\ConsultorioTO\ConsultorioTO\obj\Debug\netcoreapp2.1\ConsultorioTO.csproj.CoreCompileInputs.cache

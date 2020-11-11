@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsultorioTO.Models
+namespace ConsultorioTO.Models.ViewModels
 {
     public class ErrorViewModel
     {
